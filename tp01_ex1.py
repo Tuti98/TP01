@@ -17,4 +17,3 @@ Unités : joule, calorie, Ft-lb et eV
 
 ### Séquence d'opération
 
-
